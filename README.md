@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangnhat297&label=Profile%20views&color=0e75b6&style=flat" alt="dangnhat297" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangnhat297" alt="dangnhat297" /></a> </p>
-
 - 🌱 I’m currently learning **php - laravel**
 
 - 👨‍💻 All of my projects are available at [https://dangnhat297.blogspot.com/](https://dangnhat297.blogspot.com/)
