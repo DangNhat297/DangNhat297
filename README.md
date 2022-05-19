@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/Nhat.2907/" target="_blank"><img style="width:100%;display:block;margin:0 auto" src="https://i.pinimg.com/originals/38/65/3a/38653a210d574f2965a43b22cb14aa7c.gif"></a>
+<a href="https://www.facebook.com/Nhat.2907/" target="_blank"><img style="display:block;margin:0 auto" src="https://i.pinimg.com/originals/38/65/3a/38653a210d574f2965a43b22cb14aa7c.gif"></a>
 <br>
 <h1 align="center">Hi 👋, I'm Nguyen Dang Nhat</h1>
 <h3 align="center">Ha Tinh, Viet Nam</h3>
