@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/Nhat.2907/" target="_blank"><img style="display:block;margin:0 auto" src="https://upload.motgame.vn/wp-content/uploads/2020/07/Bookgrinder/game-khung-long-chrome-3.gif"></a>
+<a href="https://www.facebook.com/Nhat.2907/" target="_blank"><img style="display:block;margin:0 auto;width:100%" src="https://upload.motgame.vn/wp-content/uploads/2020/07/Bookgrinder/game-khung-long-chrome-3.gif"></a>
 <br>
 <h1 align="center">Hi 👋, I'm Nguyen Dang Nhat</h1>
 <h3 align="center">Ha Tinh, Viet Nam</h3>
