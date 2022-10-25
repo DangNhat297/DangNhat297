@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dang Nhat</h1>
 <h3 align="center">Ha Tinh, Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dangnhat297&label=Profile%20views&color=0e75b6&style=flat" alt="dangnhat297" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dangnhat297&label=Profile%20views&color=0e75b6&style=flat" alt="dangnhat297" /> </p>
 
 - 🌱 I’m currently learning **php - laravel**
 
